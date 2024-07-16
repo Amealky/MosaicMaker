@@ -1,0 +1,5 @@
+outputImageName girl1
+tileWidth 8
+tileHeight 8
+outputImageWidth 1024
+outputImageHeight 1024
